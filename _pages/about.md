@@ -12,4 +12,4 @@ I am a second year Ph.D. student at the [Division of Cyber Security](https://www
 
 In my Ph.D. research on attack-aware web applications, I investigate methodologies and techniques to integrate intrusion detection and response capabilities into web applications. 
 
-As part of my research and because of my personal interest, I also explore other research fields such as Application Security, Usable Security for Developers and Intrusion Detection. 
+As part of my research and because of my personal interest, I also explore other research fields such as Web Application Security, Developer-Centered Security, Secure Software Development and Intrusion Detection. 
